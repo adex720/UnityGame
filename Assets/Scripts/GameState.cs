@@ -1,0 +1,4 @@
+public enum GameState
+{
+    MOVE_TILES, SIMULATE, PAUSED, FINISHED, FAILED
+}

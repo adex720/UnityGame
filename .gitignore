@@ -1,0 +1,9 @@
+Library/
+Logs/
+MonoBleedingEdge/
+Peli_BurstDebugInformation_DoNotShip/
+
+
+Peli.exe
+UnityCrashHandler64.exe
+UnityPlayer.dll
